@@ -23,7 +23,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-url: "http://sjh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "http://louren1234.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 
 encoding: utf-8
