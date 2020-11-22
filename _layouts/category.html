@@ -36,9 +36,7 @@ layout: compress
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
-                <div>
-                    <!-- {% for post in site.posts %} 
-                        {% if post.project == null %} -->
+                <div class="post-list">
                     <ul>
                         {% assign category = page.category | default: page.title %}
                         {% for post in site.categories[category] %}
@@ -49,14 +47,9 @@ layout: compress
                             </li>
                         {% endfor %}
                     </ul>
-                        <!-- {% endif %}
-                    {% endfor %} -->
                 </div>
             </div>
         </div>
     </header>
-    {% include scripts.html %}
-    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
-    <script type="text/javascript">(new WOW).init();</script>
 </body>
 </html>
