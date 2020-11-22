@@ -1,6 +1,0 @@
----
-short_name: sjh
-name: Son Juhee
-position: secret
----
-이것저것 기웃기웃거리는거 좋아하고 요즘 모 프로그램을 통해 오x영 선생님으로 내적 성장하는 중
