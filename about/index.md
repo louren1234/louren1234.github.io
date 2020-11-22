@@ -20,12 +20,12 @@ comments: false
     https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/stsci-h-p2031d-f-1764x1249.png
     https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/blackmarble_2016_americas_composite.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="우주사진" cols=2 %}
 
 See a [우주](https://www.nasa.gov/multimedia/imagegallery/iotd.html) 완전 멋짐.
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+우선 단기적 목표는 [베이킹](https://www.google.com/search?q=%EA%BF%80%EC%BC%80%EC%9D%B4%ED%81%AC&tbm=isch&tbs=il:ol&hl=ko&sa=X&ved=0CAAQ1vwEahcKEwjo_4i9qJbtAhUAAAAAHQAAAAAQAg&biw=1519&bih=754#imgrc=xYW053aOK8otJM) 맛있게 만들기.
       
 [Github](https://github.com/louren1234){: .btn}
